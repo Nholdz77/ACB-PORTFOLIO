@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/acb-portfolio/static/css/main.793803fc.css",
+    "main.js": "/acb-portfolio/static/js/main.330a82e9.js",
+    "static/media/texture.png": "/acb-portfolio/static/media/texture.901d3e3f8b13aeccd608.png",
+    "static/media/img02.png": "/acb-portfolio/static/media/img02.dc311b4b4954552f4b6f.png",
+    "static/media/img04.png": "/acb-portfolio/static/media/img04.74ff1a1536c16093a3a5.png",
+    "static/media/img03.png": "/acb-portfolio/static/media/img03.aa329beeae114156616c.png",
+    "static/media/image1.png": "/acb-portfolio/static/media/image1.388471e1763175c830fc.png",
+    "static/media/img01.png": "/acb-portfolio/static/media/img01.789732fdd9c2c9a47ccd.png",
+    "static/media/Image6.webp": "/acb-portfolio/static/media/Image6.941faa46bd47b38265c0.webp",
+    "static/media/ACB.pdf": "/acb-portfolio/static/media/ACB.6371ca66c497138da4be.pdf",
+    "static/media/img7-removebg-preview.png": "/acb-portfolio/static/media/img7-removebg-preview.ee627ecb11df18e016c5.png",
+    "static/media/Image5.webp": "/acb-portfolio/static/media/Image5.59d8376af1f5b6fdaf60.webp",
+    "static/media/Image2.webp": "/acb-portfolio/static/media/Image2.7855a9c3451c9171e460.webp",
+    "static/media/Image1.webp": "/acb-portfolio/static/media/Image1.b9f039f204dd41311de5.webp",
+    "static/media/Image4.webp": "/acb-portfolio/static/media/Image4.f3a93a261e96ac0fef32.webp",
+    "static/media/Image3.webp": "/acb-portfolio/static/media/Image3.b250ecbfa63de5e3b07e.webp",
+    "index.html": "/acb-portfolio/index.html",
+    "main.793803fc.css.map": "/acb-portfolio/static/css/main.793803fc.css.map",
+    "main.330a82e9.js.map": "/acb-portfolio/static/js/main.330a82e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.793803fc.css",
+    "static/js/main.330a82e9.js"
+  ]
+}
