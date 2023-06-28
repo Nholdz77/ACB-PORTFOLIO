@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import MIG from "../../assets/image1.png";
+import MIG from "../../assets/image2.png";
 import { FaAward } from "react-icons/fa";
 import { FiUser } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
@@ -38,10 +38,15 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis,
-            dolorem dolore ratione velit quo, praesentium unde amet quisquam
-            provident eaque numquam voluptates eveniet ipsum expedita earum
-            ducimus. Dolorem, minus veritatis?
+            I am a career shifter passionate about expanding my knowledge in web
+            development using HTML, CSS, JavaScript, and JQuery to contribute to
+            your company's growth. I am an adaptable team player with patience
+            and resourcefulness, capable of efficiently handling multiple tasks
+            to achieve objectives. My ultimate ambition is to become a
+            proficient full-stack web developer skilled in designing,
+            developing, testing, and deploying web applications. The experience
+            gained from the Kodego Bootcamp aligns perfectly with my
+            aspirations, making me well-prepared for the journey ahead.
           </p>
 
           <a href="#contact" className="btn btn-primary">
